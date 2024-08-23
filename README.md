@@ -10,6 +10,7 @@ Bu proje, C# Form App ile yapılmış çanta firmasına ait stok işleme ve ür�
 
 ### 📥 Giriş Sayfası
 Giriş sayfası, uygulamaya giriş için kullanıcı adı ve şifre yazdığımız sayfadır.
+
 <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/image1BSI.png">
 
 ### 🏠 Ana Sayfa

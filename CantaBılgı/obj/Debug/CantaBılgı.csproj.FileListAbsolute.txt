@@ -1,0 +1,28 @@
+C:\Users\cinar\source\repos\CantaBılgı\bin\Debug\CantaBılgı.exe.config
+C:\Users\cinar\source\repos\CantaBılgı\bin\Debug\CantaBılgı.exe
+C:\Users\cinar\source\repos\CantaBılgı\bin\Debug\CantaBılgı.pdb
+C:\Users\cinar\source\repos\CantaBılgı\obj\Debug\CantaBılgı.csproj.AssemblyReference.cache
+C:\Users\cinar\source\repos\CantaBılgı\obj\Debug\CantaBılgı.GırısForm.resources
+C:\Users\cinar\source\repos\CantaBılgı\obj\Debug\CantaBılgı.Properties.Resources.resources
+C:\Users\cinar\source\repos\CantaBılgı\obj\Debug\CantaBılgı.csproj.GenerateResource.cache
+C:\Users\cinar\source\repos\CantaBılgı\obj\Debug\CantaBılgı.csproj.CoreCompileInputs.cache
+C:\Users\cinar\source\repos\CantaBılgı\obj\Debug\CantaBılgı.exe
+C:\Users\cinar\source\repos\CantaBılgı\obj\Debug\CantaBılgı.pdb
+C:\Users\cinar\source\repos\CantaBılgı\obj\Debug\CantaBılgı.AnaForm.resources
+C:\Users\cinar\source\repos\CantaBılgı\obj\Debug\CantaBılgı.UrunKontrolForm.resources
+C:\Users\cinar\source\repos\CantaBılgı\obj\Debug\CantaBılgı.UrunGuncelleForm.resources
+C:\Users\cinar\source\repos\CantaBılgı\obj\Debug\CantaBılgı.PersonelKayitForm.resources
+C:\Users\cinar\Masaüstü\Görsel Programlama\CantaBılgı\bin\Debug\CantaBılgı.exe.config
+C:\Users\cinar\Masaüstü\Görsel Programlama\CantaBılgı\bin\Debug\CantaBılgı.exe
+C:\Users\cinar\Masaüstü\Görsel Programlama\CantaBılgı\bin\Debug\CantaBılgı.pdb
+C:\Users\cinar\Masaüstü\Görsel Programlama\CantaBılgı\obj\Debug\CantaBılgı.csproj.AssemblyReference.cache
+C:\Users\cinar\Masaüstü\Görsel Programlama\CantaBılgı\obj\Debug\CantaBılgı.AnaForm.resources
+C:\Users\cinar\Masaüstü\Görsel Programlama\CantaBılgı\obj\Debug\CantaBılgı.GırısForm.resources
+C:\Users\cinar\Masaüstü\Görsel Programlama\CantaBılgı\obj\Debug\CantaBılgı.PersonelKayitForm.resources
+C:\Users\cinar\Masaüstü\Görsel Programlama\CantaBılgı\obj\Debug\CantaBılgı.Properties.Resources.resources
+C:\Users\cinar\Masaüstü\Görsel Programlama\CantaBılgı\obj\Debug\CantaBılgı.UrunGuncelleForm.resources
+C:\Users\cinar\Masaüstü\Görsel Programlama\CantaBılgı\obj\Debug\CantaBılgı.UrunKontrolForm.resources
+C:\Users\cinar\Masaüstü\Görsel Programlama\CantaBılgı\obj\Debug\CantaBılgı.csproj.GenerateResource.cache
+C:\Users\cinar\Masaüstü\Görsel Programlama\CantaBılgı\obj\Debug\CantaBılgı.csproj.CoreCompileInputs.cache
+C:\Users\cinar\Masaüstü\Görsel Programlama\CantaBılgı\obj\Debug\CantaBılgı.exe
+C:\Users\cinar\Masaüstü\Görsel Programlama\CantaBılgı\obj\Debug\CantaBılgı.pdb

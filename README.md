@@ -21,7 +21,14 @@ Ana sayfa, diğer sayfalar arasında gezinmeyi sağlayan ana menü sayfasıdır.
 ### 👜 Ürün Kontrol Sayfası
 Ürün kontrol sayfası, ürünleri inceldiğimiz ve gözlemlediğimiz, kısaca kontrol ettiğimiz sayfadır.
 
-<img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/image3BSI.png">
+<img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/image4BSI.png">
 
 ### 👜 Ürün Güncelleme Sayfası
+Ürün güncelleme sayfası, ürünler üzerinde oynama yapabildiğimiz, kısaca ürünleri güncellediğimiz sayfadır.
+
+<img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/image5BSI.png">
+
 ### 👤 Personel Kontrol Sayfası
+Personel kontrol sayfası, personelleri yönettiğimiz ve kontrol ettiğimiz sayfadır, sadece müdür bu sayfaya girebilmektedir.
+
+<img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/image3BSI.png">

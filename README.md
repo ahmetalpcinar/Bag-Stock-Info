@@ -14,6 +14,9 @@ Giriş sayfası, uygulamaya giriş için kullanıcı adı ve şifre yazdığım�
 <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/image1BSI.png">
 
 ### 🏠 Ana Sayfa
+Ana sayfa diğer sayfalar arasında gezinmeyi sağlayan ana menü sayfasıdır.
+
+<img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/image2BSI.png">
 ### 👜 Ürün Kontrol Sayfası
 ### 👜 Ürün Güncelleme Sayfası
 ### 👤 Personel Kontrol Sayfası

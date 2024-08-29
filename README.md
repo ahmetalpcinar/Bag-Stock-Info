@@ -1,5 +1,5 @@
 ## ❗ Bilgi
-Bu proje, C# Form App ile yapılmış çanta firmasına ait stok işleme ve ürün takip sistemi için denemesidir.
+Bu proje, C# Form App ile yapılmış çanta firmasına ait stok işleme ve ürün takip sistemi için denemesidir. Database olarak SQL Server kullanılmıştır ve CantaBilgi olarak adlandırılmıştır.
 
 ## 🖥️ İçindekiler
 - Uygulama Giriş Sayfası
